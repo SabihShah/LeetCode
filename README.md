@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SabihShah/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SabihShah/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1917-maximum-average-pass-ratio](https://github.com/SabihShah/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SabihShah/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/SabihShah/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/SabihShah/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
